@@ -182,9 +182,6 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 
 <br>
 
-> **💡 Catatan:** Ganti placeholder image di atas dengan screenshot karya asli kamu!
-> 
-> Upload gambar ke imgur.com atau gunakan GitHub untuk hosting, lalu ganti URL-nya.
 
 </div>
 
@@ -197,7 +194,6 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 - 🏆 **Peserta [Workshop/Event]** - [Nama Event] (2024)
 - ⭐ **Project [Nama Project]** - [Deskripsi singkat] (2023)
 
-> Tambahkan achievement dan pengalaman kamu di sini!
 
 ---
 
