@@ -1,91 +1,254 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Robbywilliams&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Visual%20Communication%20Designer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVwejV3MTJrbzh5Z2w5YmNqMHBwMzJobGQwMjJia3l6cmg2dGh5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="260" style="border-radius: 10px;" />
+### 🎨 SMK 7 Surabaya | Desain Komunikasi Visual
 
-<br/><br/>
+<br>
 
-<h1 style="font-weight:700; color:#ffffff;">Joy Henry</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Creative+Visual+Designer+from+Surabaya;Passionate+About+Graphic+Design;Turning+Ideas+into+Visual+Stories;Always+Learning+%26+Growing!)](https://git.io/typing-svg)
 
-<h3 style="font-weight:400; color:#9b9b9b;">
-Senior Front-End Engineer • UI/UX Enthusiast • Open Source Contributor
-</h3>
+</div>
 
-<p style="max-width:600px; color:#c7c7c7;">
-Engineer with a passion for <b>performance-driven interfaces</b>, <b>accessible design</b>, and <b>modern frontend architecture</b>.
-Crafting high-quality digital experiences with precision and clarity.
+---
+
+## 👋 Tentang Saya
+
+Halo! Saya **Robbywilliams**, siswa SMK jurusan **Desain Komunikasi Visual** di SMK 7 Surabaya. 
+
+Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Saya percaya bahwa desain yang baik bisa menyampaikan pesan dengan cara yang indah dan efektif!
+
+- 🎓 Siswa DKV di **SMK 7 Surabaya**
+- 🎨 Fokus: Graphic Design, Brand Identity, dan Digital Design
+- 🌱 Sedang belajar: Motion Graphics & UI/UX Design
+- 📍 Lokasi: Surabaya, Jawa Timur
+- 🎯 Goal: Menjadi desainer profesional dan membangun portofolio yang keren!
+- ⚡ Hobi: Desain, ilustrasi, dan eksplorasi trend design terbaru
+
+---
+
+## 🎨 Keahlian Design
+
+<div align="center">
+
+### Software & Tools yang Saya Kuasai
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png" width="65"/>
+<br><strong>Photoshop</strong>
+<br>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/adobe-illustrator--v1.png" width="65"/>
+<br><strong>Illustrator</strong>
+<br>⭐⭐⭐⭐
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/figma--v1.png" width="65"/>
+<br><strong>Figma</strong>
+<br>⭐⭐⭐⭐
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/canva.png" width="65"/>
+<br><strong>Canva</strong>
+<br>⭐⭐⭐⭐⭐
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/adobe-indesign--v1.png" width="65"/>
+<br><strong>InDesign</strong>
+<br>⭐⭐⭐
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/coreldraw.png" width="65"/>
+<br><strong>CorelDRAW</strong>
+<br>⭐⭐⭐
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="65"/>
+<br><strong>Social Media</strong>
+<br>⭐⭐⭐⭐
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/video-editing.png" width="65"/>
+<br><strong>Video Editing</strong>
+<br>⭐⭐⭐
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Jenis Desain yang Saya Kerjakan
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎨 Graphic Design
+- Logo Design
+- Poster & Flyer
+- Banner & Spanduk
+- Packaging Design
+- Infographic
+
+</td>
+<td width="33%" align="center">
+
+### 📱 Digital Design
+- Social Media Post
+- Instagram Feed Design
+- YouTube Thumbnail
+- Presentation Design
+- Digital Invitation
+
+</td>
+<td width="33%" align="center">
+
+### ✏️ Brand Identity
+- Brand Guidelines
+- Business Card
+- Letterhead
+- Merchandise Design
+- Brand Collateral
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Portfolio & Karya Saya
+
+<div align="center">
+
+### Beberapa Project yang Saya Kerjakan
+
+<table>
+<tr>
+<td width="50%">
+<h3>🎨 Brand Identity Design</h3>
+<img src="https://via.placeholder.com/450x300/667eea/ffffff?text=Brand+Identity+Project" width="100%"/>
+<br><br>
+<p align="left">
+<strong>Deskripsi:</strong> Desain identitas brand untuk [nama project/klien]. Termasuk pembuatan logo, color palette, typography, dan brand guidelines yang konsisten.
 </p>
-
-<br/>
-
-<!-- SOCIAL LINKS -->
-<p>
-  <a href="https://www.linkedin.com/in/joy-henry-7315251b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/joyhenryy">
-    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=flat&logo=github&logoColor=ffffff" />
-  </a>
-  <a href="mailto:contact@joyhenry.com">
-    <img src="https://img.shields.io/badge/Email-BB3D3D?style=flat&logo=gmail&logoColor=ffffff" />
-  </a>
+<p align="left">
+<strong>Tools:</strong> Adobe Illustrator, Photoshop
 </p>
+</td>
+<td width="50%">
+<h3>📱 Social Media Design</h3>
+<img src="https://via.placeholder.com/450x300/f093fb/ffffff?text=Social+Media+Design" width="100%"/>
+<br><br>
+<p align="left">
+<strong>Deskripsi:</strong> Desain konten social media untuk [nama project/klien]. Membuat feed Instagram yang aesthetic dan konsisten dengan brand identity.
+</p>
+<p align="left">
+<strong>Tools:</strong> Figma, Canva, Photoshop
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🖼️ Poster Design</h3>
+<img src="https://via.placeholder.com/450x300/4facfe/ffffff?text=Poster+Design" width="100%"/>
+<br><br>
+<p align="left">
+<strong>Deskripsi:</strong> Desain poster untuk [event/campaign/klien]. Fokus pada visual yang eye-catching dan pesan yang clear.
+</p>
+<p align="left">
+<strong>Tools:</strong> Adobe Photoshop, Illustrator
+</p>
+</td>
+<td width="50%">
+<h3>📦 Packaging Design</h3>
+<img src="https://via.placeholder.com/450x300/00d2ff/ffffff?text=Packaging+Design" width="100%"/>
+<br><br>
+<p align="left">
+<strong>Deskripsi:</strong> Desain packaging produk untuk [nama produk/klien]. Kombinasi antara aesthetic dan functional design.
+</p>
+<p align="left">
+<strong>Tools:</strong> Adobe Illustrator, Photoshop
+</p>
+</td>
+</tr>
+</table>
 
-<br/>
+<br>
+
+> **💡 Catatan:** Ganti placeholder image di atas dengan screenshot karya asli kamu!
+> 
+> Upload gambar ke imgur.com atau gunakan GitHub untuk hosting, lalu ganti URL-nya.
 
 </div>
 
 ---
 
-## 🔧 Tech Stack (Modern Arsenal)
+## 📚 Pengalaman & Pencapaian
+
+- 🎨 **Juara [posisi] Lomba Design** - [Nama Event/Institusi] (2024)
+- 📜 **Sertifikat [Nama Program]** - [Platform/Institusi] (2024)
+- 🏆 **Peserta [Workshop/Event]** - [Nama Event] (2024)
+- ⭐ **Project [Nama Project]** - [Deskripsi singkat] (2023)
+
+> Tambahkan achievement dan pengalaman kamu di sini!
+
+---
+
+## 📫 Hubungi Saya
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-1a1f36?style=for-the-badge&logo=typescript&logoColor=2f8cff" />
-<img src="https://img.shields.io/badge/React-0d1526?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-1a1a1a?style=for-the-badge&logo=vue.js&logoColor=42b883" />
+Saya terbuka untuk project freelance, kolaborasi, atau sekadar diskusi tentang design! 🎨
 
-<img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Sass-1d0f12?style=for-the-badge&logo=sass&logoColor=ff7ac3" />
-<img src="https://img.shields.io/badge/Figma-1e1e1e?style=for-the-badge&logo=figma&logoColor=ff7262" />
+<br>
 
-<img src="https://img.shields.io/badge/Redux-2b0d3a?style=for-the-badge&logo=redux&logoColor=bb86fc" />
-<img src="https://img.shields.io/badge/Vite-1e1a3b?style=for-the-badge&logo=vite&logoColor=9c7bff" />
-<img src="https://img.shields.io/badge/Git-2a0f0f?style=for-the-badge&logo=git&logoColor=ff6b6b" />
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](link-portfolio-kamu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robbywilliamsp/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link-linkedin-kamu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/nomor-kamu)
+
+<br>
+
+### 💼 Open for:
+✨ Freelance Design Projects | 🤝 Collaboration | 📚 Design Consultation
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics (Dark Neon)
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Robbywilliams&show_icons=true&theme=tokyonight&hide_border=true&icon_color=7aa2ff&text_color=cfcfcf&title_color=ffffff" />
+## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbywilliams&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=cfcfcf" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robbywilliams&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robbywilliams&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
+
+<br>
+
 
 </div>
 
 ---
 
-## ⚡ What I'm Focused On
-
-- 🚀 Building **high-performance dashboard systems**
-- 🧩 Exploring **WebAssembly & Rust for frontend**
-- 🎛️ Designing **scalable UI systems & design tokens**
-- 🔍 Deep diving into **frontend architecture & state machines**
-
----
-
 <div align="center">
 
-### 🖤 “Modern design isn’t just dark — it’s precise, bold, and intentional.”
+### 💭 Design Quote
 
-<br/>
+*"Design is not just what it looks like and feels like. Design is how it works."*
+**- Steve Jobs**
 
-If you're into futuristic UI, smooth micro-interactions, or frontend engineering,  
-<b>let’s connect and build something extraordinary.</b>
+<br>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
 
 </div>
