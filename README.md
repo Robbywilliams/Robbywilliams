@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Robbywilliams&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Visual%20Communication%20Designer&descAlignY=55&descSize=20" width="100%"/>
 
-### 🎨 SMK 7 Surabaya | Desain Komunikasi Visual
+### 🎨 SMK 8 Surabaya | Desain Komunikasi Visual
 
 <br>
 
@@ -14,11 +14,11 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Robbywilliams**, siswa SMK jurusan **Desain Komunikasi Visual** di SMK 7 Surabaya. 
+Halo! Saya **Robbywilliams**, siswa SMK jurusan **Desain Komunikasi Visual** di SMK 8 Surabaya. 
 
 Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Saya percaya bahwa desain yang baik bisa menyampaikan pesan dengan cara yang indah dan efektif!
 
-- 🎓 Siswa DKV di **SMK 7 Surabaya**
+- 🎓 Siswa DKV di **SMK 8 Surabaya**
 - 🎨 Fokus: Graphic Design, Brand Identity, dan Digital Design
 - 🌱 Sedang belajar: Motion Graphics & UI/UX Design
 - 📍 Lokasi: Surabaya, Jawa Timur
@@ -122,68 +122,6 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 </table>
 
 ---
-
-## 🏆 Portfolio & Karya Saya
-
-<div align="center">
-
-### Beberapa Project yang Saya Kerjakan
-
-<table>
-<tr>
-<td width="50%">
-<h3>🎨 Brand Identity Design</h3>
-<img src="https://via.placeholder.com/450x300/667eea/ffffff?text=Brand+Identity+Project" width="100%"/>
-<br><br>
-<p align="left">
-<strong>Deskripsi:</strong> Desain identitas brand untuk [nama project/klien]. Termasuk pembuatan logo, color palette, typography, dan brand guidelines yang konsisten.
-</p>
-<p align="left">
-<strong>Tools:</strong> Adobe Illustrator, Photoshop
-</p>
-</td>
-<td width="50%">
-<h3>📱 Social Media Design</h3>
-<img src="https://via.placeholder.com/450x300/f093fb/ffffff?text=Social+Media+Design" width="100%"/>
-<br><br>
-<p align="left">
-<strong>Deskripsi:</strong> Desain konten social media untuk [nama project/klien]. Membuat feed Instagram yang aesthetic dan konsisten dengan brand identity.
-</p>
-<p align="left">
-<strong>Tools:</strong> Figma, Canva, Photoshop
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🖼️ Poster Design</h3>
-<img src="https://via.placeholder.com/450x300/4facfe/ffffff?text=Poster+Design" width="100%"/>
-<br><br>
-<p align="left">
-<strong>Deskripsi:</strong> Desain poster untuk [event/campaign/klien]. Fokus pada visual yang eye-catching dan pesan yang clear.
-</p>
-<p align="left">
-<strong>Tools:</strong> Adobe Photoshop, Illustrator
-</p>
-</td>
-<td width="50%">
-<h3>📦 Packaging Design</h3>
-<img src="https://via.placeholder.com/450x300/00d2ff/ffffff?text=Packaging+Design" width="100%"/>
-<br><br>
-<p align="left">
-<strong>Deskripsi:</strong> Desain packaging produk untuk [nama produk/klien]. Kombinasi antara aesthetic dan functional design.
-</p>
-<p align="left">
-<strong>Tools:</strong> Adobe Illustrator, Photoshop
-</p>
-</td>
-</tr>
-</table>
-
-<br>
-
-
-</div>
 
 ---
 
