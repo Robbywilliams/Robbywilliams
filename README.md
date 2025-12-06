@@ -201,7 +201,8 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 
 <div align="center">
 
-Saya terbuka untuk project freelance, kolaborasi, atau sekadar diskusi tentang design! 🎨
+### 💼 Open for:
+✨ Freelance Design Projects | 🤝 Collaboration | 📚 Design Consultation
 
 <br>
 
@@ -213,20 +214,12 @@ Saya terbuka untuk project freelance, kolaborasi, atau sekadar diskusi tentang d
 
 <br>
 
-### 💼 Open for:
-✨ Freelance Design Projects | 🤝 Collaboration | 📚 Design Consultation
 
 </div>
 
----
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robbywilliams&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robbywilliams&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
 
 <br>
 
