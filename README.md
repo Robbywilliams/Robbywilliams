@@ -123,8 +123,6 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 
 ---
 
----
-
 ## 📚 Pengalaman & Pencapaian
 
 - 🎨 **Juara [posisi] Lomba Design** - [Nama Event/Institusi] (2024)
