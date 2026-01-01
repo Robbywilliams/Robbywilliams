@@ -46,7 +46,6 @@ Repository ini berisi:
 <img src="https://img.shields.io/badge/MikroTik-Winbox-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Virtualization-VirtualBox-lightgrey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Code-VS%20Code-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge">
 </p>
 
