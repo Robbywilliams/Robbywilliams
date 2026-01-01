@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="200"/>
 </p>
 
-<h1 align="center">Student Portfolio – SMK Teknik Komputer & Jaringan</h1>
+<h1 align="center">Student Portfolio – SMK Teknik Komputer & Jaringan</h1>  <!--Student Portofolio ganti dengan nama anda-->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Repository;SMK+Teknik+Komputer+dan+Jaringan;Learning+Networking%2C+Linux%2C+and+Server+Administration" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 📂 Konten Repository
+## 📂 Konten Repository <!--Ganti dengan Project yang sudah anda buat-->
 Repository ini berisi:
 
 - 🔧 Praktikum & proyek jaringan komputer  
@@ -30,7 +30,7 @@ Repository ini berisi:
 
 ---
 
-## 🧠 Kompetensi yang Dipelajari
+## 🧠 Kompetensi yang Dipelajari <!--Ganti dengan Keahlian anda-->
 - 🖧 LAN, WAN, VLAN  
 - 🔌 Konfigurasi perangkat jaringan  
 - 🐧 Linux Administration  
@@ -40,7 +40,7 @@ Repository ini berisi:
 
 ---
 
-## 🛠️ Tools & Software
+## 🛠️ Tools & Software <!--Hapus Tools yang tidak anda gunakan-->
 <p>
 <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/MikroTik-Winbox-red?style=for-the-badge">
@@ -53,7 +53,7 @@ Repository ini berisi:
 ---
 
 
-## 📞 Kontak
+## 📞 Kontak <!--Isi dengan data diri anda-->
 Untuk diskusi atau kolaborasi:
 
 - 📧 Email : (isi sendiri)
