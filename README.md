@@ -83,10 +83,8 @@ Aku sedang membangun fondasi karier di dunia teknologi dengan menggabungkan **pe
 </p>
 
 
----
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3cxYnoyYTIycHJ3b2JtanZyZ2RmOWNjbGhuZmFsNGxiaDh6OTlnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PV1dPfaeac5a/giphy.gif" width="300" />
 </p>
 
-✨ *Still learning, still building, still dreaming.*
