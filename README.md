@@ -1,71 +1,92 @@
-<!-- 🌟 Animated Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="200"/>
-</p>
-
-<h1 align="center">Student Portfolio – SMK Teknik Komputer & Jaringan</h1>  <!--Student Portofolio ganti dengan nama anda-->
+# 👋 Hi, I'm Robby Williams Pascal
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Repository;SMK+Teknik+Komputer+dan+Jaringan;Learning+Networking%2C+Linux%2C+and+Server+Administration" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 📌 Profil Singkat
-- 👨‍🎓 Siswa SMK – Teknik Komputer dan Jaringan  
-- 💻 Meminati jaringan komputer, administrasi sistem, server, dan teknologi informasi  
-- 🚀 Berkomitmen untuk terus belajar dan meningkatkan kemampuan di bidang IT  
+## 🚀 About Me
+
+🎓 **Mahasiswa Sistem Informasi**
+📱 Fokus di **Mobile Programming**
+☁️ Mendalami **Cloud Engineering**
+
+Aku sedang membangun fondasi karier di dunia teknologi dengan menggabungkan **pengembangan aplikasi mobile** dan **cloud infrastructure**. Tertarik pada sistem yang scalable, efisien, dan siap dipakai di dunia nyata.
 
 ---
 
-## 📂 Konten Repository <!--Ganti dengan Project yang sudah anda buat-->
-Repository ini berisi:
+## 📱 Mobile Programming
 
-- 🔧 Praktikum & proyek jaringan komputer  
-- 🌐 Konfigurasi Router & Switch  
-- 🐧 Administrasi Linux  
-- 🪟 Windows Server  
-- 📡 Cisco / MikroTik Simulation  
-- 📑 Dokumentasi pembelajaran  
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+</p>
 
----
-
-## 🧠 Kompetensi yang Dipelajari <!--Ganti dengan Keahlian anda-->
-- 🖧 LAN, WAN, VLAN  
-- 🔌 Konfigurasi perangkat jaringan  
-- 🐧 Linux Administration  
-- 🪟 Windows Server Management  
-- 🔐 Dasar Keamanan Jaringan  
-- ☁️ Cloud & Hosting Dasar  
+* Flutter (Android)
+* UI/UX Mobile App
+* Firebase Integration
 
 ---
 
-## 🛠️ Tools & Software <!--Hapus Tools yang tidak anda gunakan-->
-<p>
-<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/MikroTik-Winbox-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Virtualization-VirtualBox-lightgrey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge">
+## ☁️ Cloud Engineering
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250" />
+</p>
+
+* Docker & Containerization
+* Linux Server (Ubuntu)
+* Nginx & Reverse Proxy
+* Cloud Deployment (VPS)
+
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,docker,linux,nginx,git,github" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
 
-## 📞 Kontak <!--Isi dengan data diri anda-->
-Untuk diskusi atau kolaborasi:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robbywilliams&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robbywilliams&theme=tokyonight" />
+</p>
 
-- 📧 Email : (isi sendiri)
-- 💼 LinkedIn : (opsional)
-- 🌐 Website / Portofolio : (opsional)
+---
+
+## 🌱 Currently Learning
+
+* Advanced Flutter Architecture
+* Cloud Security Basics
+* CI/CD Pipeline
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/robbywilliams">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/robbywilliamsp">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+6281805533332">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" />
 </p>
 
-## ⭐ Terima Kasih
-Terima kasih telah mengunjungi repository ini.  
-Semoga dapat menjadi referensi dan dokumentasi pembelajaran yang bermanfaat.
-
+✨ *Still learning, still building, still dreaming.*
